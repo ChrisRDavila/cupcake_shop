@@ -1,8 +1,8 @@
-# (Cupcake Shop)
+# Cupcake Shop
 
-#### (This application is a website page for a fictitious cupcake shop to practice html, css and adding images)
+#### This application is a website page for a fictitious cupcake shop to practice html, css and adding images
 
-#### By (Chirstopher Davila)
+#### By Chirstopher Davila
 
 ## Technologies Used
 
